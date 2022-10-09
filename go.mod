@@ -1,3 +1,3 @@
-module github.com/BetzQ/go-say-hello
+module github.com/BetzQ/go-say-hello/v2
 
 go 1.19
